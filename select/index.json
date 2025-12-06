@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "愛言葉",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2025-12-06T09:12:37.974695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛言葉",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/01_愛言葉_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛言葉",
+      "artist": "Deco*27 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_愛言葉_Deco_27_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛言葉 (sasakure.UK Remix)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_愛言葉_(sasakure.UK_Remix)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛言葉 (sasakure.UK Sweets Remix)",
+      "artist": "DECO*27 feat. mirto",
+      "has_synced": false,
+      "path": "select/04_愛言葉_(sasakure.UK_Sweets_Remix)_DECO_27_feat._mirto.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛言葉(sasakure.UK Sweets Remix) feat. mirto",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/05_愛言葉(sasakure.UK_Sweets_Remix)_feat._mirto_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛言葉",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/06_愛言葉_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oui!愛言葉",
+      "artist": "平沢憂(CV:米澤円)",
+      "has_synced": true,
+      "path": "select/07_Oui!愛言葉_平沢憂(CV_米澤円).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oui! 愛言葉",
+      "artist": "米澤円",
+      "has_synced": true,
+      "path": "select/08_Oui!_愛言葉_米澤円.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛言葉",
+      "artist": "酒井ミキオ",
+      "has_synced": false,
+      "path": "select/09_愛言葉_酒井ミキオ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oui!愛言葉",
+      "artist": "平沢憂(CV:米澤円)",
+      "has_synced": false,
+      "path": "select/10_Oui!愛言葉_平沢憂(CV_米澤円).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛言葉",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/11_愛言葉_DECO_27_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛言葉",
+      "artist": "I Don't Like Mondays.",
+      "has_synced": true,
+      "path": "select/12_愛言葉_I_Don't_Like_Mondays..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oui!愛言葉",
+      "artist": "平沢憂",
+      "has_synced": false,
+      "path": "select/13_Oui!愛言葉_平沢憂.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛言葉",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/14_愛言葉_いきものがかり.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "愛言葉",
+      "artist": "DECO*27 feat. mirto",
+      "has_synced": false,
+      "path": "select/15_愛言葉_DECO_27_feat._mirto.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "愛言葉 (sasakure.UK Sweets Remix)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/16_愛言葉_(sasakure.UK_Sweets_Remix)_DECO_27.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛言葉",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_愛言葉_Tani_Yuuki.txt"
+    }
+  ]
+}
